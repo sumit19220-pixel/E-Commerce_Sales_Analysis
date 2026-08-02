@@ -94,7 +94,7 @@ The dataset contains information such as:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Technology products generated the highest sales revenue.
 - A small group of customers contributed a significant share of total sales.
@@ -104,7 +104,7 @@ The dataset contains information such as:
 
 ---
 
-## 📊 DAX Measures Used
+## DAX Measures Used
 
 - Total Sales
 - Total Order Value
@@ -117,8 +117,10 @@ The dataset contains information such as:
 
 ## Report Preview
 
-
----
+<img width="450" height="300" alt="Sales and team" src="https://github.com/user-attachments/assets/d281ae77-b500-4611-8ab2-1086ab0699b3" /> <img width="450" height="300" alt="sales002" src="https://github.com/user-attachments/assets/f082640c-0759-4bca-bebb-8fee2a0fae96" />
+<img width="450" height="300" alt="Country" src="https://github.com/user-attachments/assets/e1d36171-8b14-4881-8632-3b40a5a04df5" />
+<img width="450" height="300" alt="Salws003" src="https://github.com/user-attachments/assets/5c718ee1-be68-42de-b2f5-efdfee6f809d" />
+<img width="450" height="300" alt="Sales005" src="https://github.com/user-attachments/assets/7e45b516-bf4d-4e46-a5be-ca427001872e" />
 
 ---
 
