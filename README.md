@@ -23,7 +23,7 @@ This project provides a comprehensive view of business performance across sales,
 - Power Query
 - DAX (Data Analysis Expressions)
 - Measure
--Drill Through
+- Drill Through
 - Data Modelling
 - Parameter and Buttons
 - Data Visulaization
@@ -96,11 +96,11 @@ The dataset contains information such as:
 
 ## Key Insights
 
-- Technology products generated the highest sales revenue.
-- A small group of customers contributed a significant share of total sales.
-- Some high-sales products generated low profits due to heavy discounts.
+- Majority of Target is met. 
+- more elder group of customers contributed a significant share of total sales.
 - Regional sales performance varied significantly, highlighting opportunities for targeted marketing.
-- Monthly sales trends revealed seasonal demand peaks.
+- Sales show similar growth across all months.
+- Some Managers did exceptional work in Sales.
 
 ---
 
@@ -142,7 +142,6 @@ This Report helps stakeholders to:
 - Data Modelling
 - DAX Measures
 - KPI Development
-- Interactive Dashboard Design
 - Time Intelligence
 - Business Insight Generation
 - Data Visualisation
