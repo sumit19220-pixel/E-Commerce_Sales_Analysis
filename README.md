@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project provides a comprehensive view of business performance across sales, customer purchasing behaviour, and teases performance. The objective of this project was to transform raw data into meaningful business insights through interactive reports and data visualisations.
+Using Power BI -This project provides a comprehensive view of business performance across sales, customer purchasing behaviour, and teases performance. The objective of this project was to transform raw data into meaningful business insights through interactive reports and data visualisations.
 
 ---
 
